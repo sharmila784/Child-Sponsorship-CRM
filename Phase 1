@@ -1,0 +1,51 @@
+Child Sponsorship CRM Project
+
+Stage 1: Understanding the Problem & Sector Insights
+Objective: Build clarity on the purpose of the system and the value it delivers.
+
+1. Collecting Requirements
+
+Engage with different stakeholders (program directors, donor management staff, field officers, child welfare teams).
+
+Sample Needs:
+
+-> Maintain a record of all sponsored children (personal details, school info, health status).
+-> Record sponsor details and track donation history.
+-> Link sponsors with one or more children.
+-> Provide progress updates and generate impact stories.
+-> Track recurring contributions and send reminders.
+-> Automate thank-you emails and acknowledgments.
+
+2. Identifying Key Users
+
+-> System Administrator → Configures Salesforce, manages permissions.
+-> Program Coordinator → Oversees sponsorship program, monitors progress.
+-> Donor Relations Staff → Handles sponsor accounts, contributions, and communication.
+-> Field Volunteers → Update child status (education, medical, activities).
+-> Sponsors → External donors receiving updates through automated emails or reports.
+
+3. Mapping the Sponsorship Process
+
+Typical Flow:
+Sponsor commits a donation → Child assigned to sponsor → Field updates added → Sponsor receives periodic updates/reports → Renewal/reminder cycle initiated.
+
+4. Sector-specific Considerations
+
+In child-focused nonprofits:
+
+-> Accountability is crucial → Donors expect clarity on fund usage.
+-> Engagement drives retention → Regular communication keeps sponsors involved.
+-> Sensitive data → Child details must be protected.
+-> Outcome-focused reporting → Organizations must showcase impact (schooling, healthcare, overall development).
+
+Therefore, the CRM solution must:
+
+-> Manage sponsor–child linkages efficiently.
+-> Streamline periodic updates and communication.
+-> Support recurring donation workflows.
+-> Ensure compliance with data protection standards.
+
+5. Exploring Existing Solutions
+
+On Salesforce AppExchange, tools like Nonprofit Success Pack (NPSP) already support donor and program management.
+These are feature-rich, but for learning purposes, we’ll design a lean, customized system focused only on child sponsorship to practice Salesforce customization.
